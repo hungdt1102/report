@@ -1,0 +1,12 @@
+PortID=3325
+MaxConnectionAllowed=10
+LoadingMethod=1
+
+queueServerEnable=true
+connectionFactory=30
+
+c3p0-config=c3p0-config.xml
+
+iscached=true
+memcachedServer=localhost
+memcachedPort=9501
